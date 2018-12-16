@@ -26,6 +26,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'olmiitp.herokuapp.com',
+    'citleavemanagement.herokuapp.com',
     'localhost',
     '127.0.0.1'
 ]
